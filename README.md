@@ -54,4 +54,6 @@ The application is mainly in **Italian**.
 Developed by **Michele Bisignano** in 2023.  
 The main algorithm was completed in 2022, at the age of 17.
 
+All skills and knowledge used in this project were acquired through self-learning. 📚  
+
 ---
