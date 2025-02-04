@@ -32,8 +32,9 @@ The app transforms a traditional test into a digital, engaging, and customizable
 ---
 
 ## How to Use the Project 📦  
-1. 
-
+1. Download the repository
+2. Upload your `.txt` file as a question database.  
+3. Run the project to test the application.
 ---
 
 ## Instructions for the `.txt` File 📝  
