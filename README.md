@@ -60,3 +60,10 @@ The main algorithm was completed in 2022, at the age of 17.
 All skills and knowledge used in this project were acquired through self-learning. 📚  
 
 ---
+
+## Tags 📌
+- #CSharp
+- #Unity
+- #EducationalApp
+- #DigitalAssessment
+
