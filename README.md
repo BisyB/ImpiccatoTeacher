@@ -1,5 +1,7 @@
+# ImpiccatoTeacher 🎓🇮🇹
+
 ![Logo](logo.ico)
-# ImpiccatoTeacher 🎓🇮🇹  
+  
 **ImpiccatoTeacher** is an educational application developed in **C# with Unity** in 2023. It was designed to offer Italian teachers an innovative and interactive method for evaluating students.  
 
 The app transforms a traditional test into a digital, engaging, and customizable experience, ensuring automatic recording of grades. It is currently used by an Italian school as a tool for assessments.
