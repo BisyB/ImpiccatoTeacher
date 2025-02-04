@@ -33,13 +33,15 @@ The app transforms a traditional test into a digital, engaging, and customizable
 
 ## How to Use the Project 📦  
 1. Download the repository
-2. Upload your `.txt` file as a question database.  
-3. Run the project to test the application.
+2. Upload your `.txt` file as a question database.
+4. Run the project to test the application.
 ---
 
 ## Instructions for the `.txt` File 📝  
-The question database must be written by the teacher in a simple `.txt` text file. Each question must follow the specific format explained in the app's internal documentation.
-Questions should be written with the answer on the next line        .
+The question database must be created by the teacher in a plain `.txt` file. Each entry should follow one of these formats:
+- **Alternating lines:** Write the question on one line and the answer on the next.  
+- **Single line:** Write the question and answer on the same line, separated by `@`.  
+
 
 ---
 
