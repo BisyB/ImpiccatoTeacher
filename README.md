@@ -1,3 +1,4 @@
+![Logo]([./assets/logo.png](https://github.com/BisyB/ImpiccatoTeacher/logo.ico)
 # ImpiccatoTeacher 🎓🇮🇹  
 **ImpiccatoTeacher** is an educational application developed in **C# with Unity** in 2023. It was designed to offer Italian teachers an innovative and interactive method for evaluating students.  
 
