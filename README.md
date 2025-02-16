@@ -17,10 +17,10 @@ The app transforms a traditional test into a digital, engaging, and customizable
 
 - **Database Customization** 🛠️:  
   Teachers can upload a `.txt` file containing the questions and customize various aspects of the test:  
-  - Test duration ⏱️  
-  - Number of questions 🔢  
-  - Penalty for incorrect answers ❌  
-  - Enabling or disabling the random question mode 🔀  
+  - Test duration 
+  - Number of questions 
+  - Penalty for incorrect answers  
+  - Enabling or disabling the random question mode   
 
 - **Grade Management** 🧑‍🏫:  
   Allows viewing and managing the history of tests.
